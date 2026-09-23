@@ -18,6 +18,15 @@ A projekt célja a paleontológiai leletekből származó dinoszaurusz adatok fe
 
 ---
 
+## 📊 Adatforrás
+
+A projektben felhasznált adatok a Kaggle-ről származnak:
+* **Forrás:** [Dinosaur Dataset by Smruthi](https://www.kaggle.com/datasets/smruthiiii/dinosaur-dataset)
+* **Primer forrás:** [The Paleobiology Database (PBDB)](https://paleobiodb.org/)
+* **Licenc / Hozzáférés:** Nyílt hozzáférésű adatbázis tudományos és oktatási célokra.
+
+---
+
 ## 📂 Mappaszerkezet
 
 ```text
