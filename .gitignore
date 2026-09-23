@@ -1,0 +1,21 @@
+# Byte-compiled / optimalizált fájlok
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook ideiglenes mentései
+.ipynb_checkpoints/
+
+# Virtuális környezetek (venv, env)
+venv/
+env/
+.env
+ENV/
+
+# VS Code és PyCharm beállítások
+.vscode/
+.idea/
+
+# Mac / Windows rendszerfájlok
+.DS_Store
+Thumbs.db
